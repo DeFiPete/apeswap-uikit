@@ -7,7 +7,6 @@
 /coverage
 
 # production
-/dist
 /storybook-static
 
 # misc
@@ -30,6 +29,3 @@ yarn-error.log*
 #iCloud
 *.icloud
 .icloud/
-
-# NPM CONFIG
-.npmrc 
